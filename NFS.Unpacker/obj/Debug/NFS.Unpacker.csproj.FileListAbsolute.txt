@@ -1,0 +1,8 @@
+D:\test\NFS.Unpacker\NFS.Unpacker\bin\Debug\NFS.Unpacker.exe.config
+D:\test\NFS.Unpacker\NFS.Unpacker\bin\Debug\NFS.Unpacker.exe
+D:\test\NFS.Unpacker\NFS.Unpacker\bin\Debug\NFS.Unpacker.pdb
+D:\test\NFS.Unpacker\NFS.Unpacker\obj\Debug\NFS.Unpacker.csproj.AssemblyReference.cache
+D:\test\NFS.Unpacker\NFS.Unpacker\obj\Debug\NFS.Unpacker.csproj.SuggestedBindingRedirects.cache
+D:\test\NFS.Unpacker\NFS.Unpacker\obj\Debug\NFS.Unpacker.csproj.CoreCompileInputs.cache
+D:\test\NFS.Unpacker\NFS.Unpacker\obj\Debug\NFS.Unpacker.exe
+D:\test\NFS.Unpacker\NFS.Unpacker\obj\Debug\NFS.Unpacker.pdb
